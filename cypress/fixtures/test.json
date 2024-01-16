@@ -1,0 +1,290 @@
+[
+    {
+      "name": "John Doe",
+      "phoneNumber": "1234567890",
+      "email": "johndoe@example.com",
+      "apartmentType": "1 Bed Apartment",
+      "message": "Hello, I'm interested!"
+    },
+    {
+      "name": "Jane Smith",
+      "phoneNumber": "9876543210",
+      "email": "janesmith@example.com",
+      "apartmentType": "3 Bed Apartment",
+      "message": "Looking for a spacious apartment."
+    },
+    {
+      "name": "Sarah Johnson",
+      "phoneNumber": "5555555555",
+      "email": "sarah@example.com",
+      "apartmentType": "Studio Apartment",
+      "message": "Need a cozy place."
+    },
+    {
+      "name": "Michael Brown",
+      "phoneNumber": "9998887777",
+      "email": "michael@example.com",
+      "apartmentType": "2 Bed Apartment",
+      "message": "Interested in a long-term lease."
+    },
+    {
+      "name": "Emily Wilson",
+      "phoneNumber": "7778889999",
+      "email": "emily@example.com",
+      "apartmentType": "1 Bed Apartment",
+      "message": "Looking for a pet-friendly apartment."
+    },
+    {
+      "name": "Daniel Thomas",
+      "phoneNumber": "4443332222",
+      "email": "daniel@example.com",
+      "apartmentType": "2 Bed Apartment",
+      "message": "Need an apartment with parking space."
+    },
+    {
+      "name": "Sophia Lee",
+      "phoneNumber": "6667778888",
+      "email": "sophia@example.com",
+      "apartmentType": "Studio Apartment",
+      "message": "Looking for a furnished apartment."
+    },
+    {
+      "name": "Matthew Wilson",
+      "phoneNumber": "1112223333",
+      "email": "matthew@example.com",
+      "apartmentType": "3 Bed Apartment",
+      "message": "Interested in a gym facility."
+    },
+    {
+      "name": "Olivia Taylor",
+      "phoneNumber": "8889990000",
+      "email": "olivia@example.com",
+      "apartmentType": "2 Bed Apartment",
+      "message": "Need an apartment with a balcony."
+    },
+    {
+      "name": "William Anderson",
+      "phoneNumber": "2223334444",
+      "email": "william@example.com",
+      "apartmentType": "1 Bed Apartment",
+      "message": "Looking for a quiet neighborhood."
+    },
+    {
+      "name": "Ava Martinez",
+      "phoneNumber": "5554443333",
+      "email": "ava@example.com",
+      "apartmentType": "Studio Apartment",
+      "message": "Interested in nearby amenities."
+    },
+    {
+      "name": "James Clark",
+      "phoneNumber": "9990001111",
+      "email": "james@example.com",
+      "apartmentType": "3 Bed Apartment",
+      "message": "Looking for a family-friendly environment."
+    },
+    {
+      "name": "Isabella White",
+      "phoneNumber": "4445556666",
+      "email": "isabella@example.com",
+      "apartmentType": "2 Bed Apartment",
+      "message": "Need a spacious kitchen."
+    },
+    {
+      "name": "Benjamin Rodriguez",
+      "phoneNumber": "2221110000",
+      "email": "benjamin@example.com",
+      "apartmentType": "1 Bed Apartment",
+      "message": "Interested in a swimming pool."
+    },
+    {
+      "name": "Mia Lewis",
+      "phoneNumber": "7776665555",
+      "email": "mia@example.com",
+      "apartmentType": "Studio Apartment",
+      "message": "Looking for a ground-floor unit."
+    },
+    {
+      "name": "Logan Walker",
+      "phoneNumber": "3334445555",
+      "email": "logan@example.com",
+      "apartmentType": "2 Bed Apartment",
+      "message": "Need a pet-friendly apartment."
+    },
+    {
+      "name": "Alexander Young",
+      "phoneNumber": "8887776666",
+      "email": "alexander@example.com",
+      "apartmentType": "3 Bed Apartment",
+      "message": "Interested in a playground for kids."
+    },
+    {
+      "name": "Abigail Hernandez",
+      "phoneNumber": "1110009999",
+      "email": "abigail@example.com",
+      "apartmentType": "2 Bed Apartment",
+      "message": "Looking for a walking distance to public transportation."
+    },
+    {
+      "name": "Ethan Moore",
+      "phoneNumber": "5556667777",
+      "email": "ethan@example.com",
+      "apartmentType": "1 Bed Apartment",
+      "message": "Need an apartment near a park."
+    },
+    {
+      "name": "Charlotte Perez",
+      "phoneNumber": "2223334444",
+      "email": "charlotte@example.com",
+      "apartmentType": "Studio Apartment",
+      "message": "Interested in a vibrant neighborhood."
+    },
+    {
+      "name": "Henry Green",
+      "phoneNumber": "8889990000",
+      "email": "henry@example.com",
+      "apartmentType": "3 Bed Apartment",
+      "message": "Looking for a view of the city."
+    },
+    {
+      "name": "Amelia Adams",
+      "phoneNumber": "3334445555",
+      "email": "amelia@example.com",
+      "apartmentType": "2 Bed Apartment",
+      "message": "Need an apartment with a fitness center."
+    },
+    {
+      "name": "Daniel Lee",
+      "phoneNumber": "1112223333",
+      "email": "daniel@example.com",
+      "apartmentType": "1 Bed Apartment",
+      "message": "Interested in an in-unit washer and dryer."
+    },
+    {
+      "name": "Mia Turner",
+      "phoneNumber": "4445556666",
+      "email": "mia@example.com",
+      "apartmentType": "Studio Apartment",
+      "message": "Looking for a balcony with a view."
+    },
+    {
+      "name": "Lucas Hill",
+      "phoneNumber": "2221110000",
+      "email": "lucas@example.com",
+      "apartmentType": "3 Bed Apartment",
+      "message": "Need a quiet and peaceful environment."
+    },
+    {
+      "name": "Evelyn Ross",
+      "phoneNumber": "7776665555",
+      "email": "evelyn@example.com",
+      "apartmentType": "2 Bed Apartment",
+      "message": "Interested in a covered parking space."
+    },
+    {
+      "name": "Jackson Parker",
+      "phoneNumber": "3334445555",
+      "email": "jackson@example.com",
+      "apartmentType": "1 Bed Apartment",
+      "message": "Looking for a rooftop terrace."
+    },
+    {
+      "name": "Scarlett Coleman",
+      "phoneNumber": "8887776666",
+      "email": "scarlett@example.com",
+      "apartmentType": "Studio Apartment",
+      "message": "Interested in a 24-hour security system."
+    },
+    {
+      "name": "Aiden Reed",
+      "phoneNumber": "1110009999",
+      "email": "aiden@example.com",
+      "apartmentType": "2 Bed Apartment",
+      "message": "Need an apartment near shopping centers."
+    },
+    {
+      "name": "Chloe Bennett",
+      "phoneNumber": "5556667777",
+      "email": "chloe@example.com",
+      "apartmentType": "3 Bed Apartment",
+      "message": "Looking for an open-concept floor plan."
+    },
+    {
+      "name": "Sebastian Turner",
+      "phoneNumber": "2223334444",
+      "email": "sebastian@example.com",
+      "apartmentType": "2 Bed Apartment",
+      "message": "Interested in a community clubhouse."
+    },
+    {
+      "name": "Zoe Phillips",
+      "phoneNumber": "8889990000",
+      "email": "zoe@example.com",
+      "apartmentType": "1 Bed Apartment",
+      "message": "Looking for an apartment with a fireplace."
+    },
+    {
+      "name": "Carter Foster",
+      "phoneNumber": "3334445555",
+      "email": "carter@example.com",
+      "apartmentType": "Studio Apartment",
+      "message": "Interested in a central location."
+    },
+    {
+      "name": "Layla Simmons",
+      "phoneNumber": "1112223333",
+      "email": "layla@example.com",
+      "apartmentType": "3 Bed Apartment",
+      "message": "Need a large living room."
+    },
+    {
+      "name": "Gabriel Price",
+      "phoneNumber": "4445556666",
+      "email": "gabriel@example.com",
+      "apartmentType": "2 Bed Apartment",
+      "message": "Looking for an apartment with a view of the lake."
+    },
+    {
+      "name": "Elizabeth Barnes",
+      "phoneNumber": "2221110000",
+      "email": "elizabeth@example.com",
+      "apartmentType": "1 Bed Apartment",
+      "message": "Interested in an energy-efficient apartment."
+    },
+    {
+      "name": "Nathan Parker",
+      "phoneNumber": "7776665555",
+      "email": "nathan@example.com",
+      "apartmentType": "Studio Apartment",
+      "message": "Need an apartment with a laundry facility."
+    },
+    {
+      "name": "Addison Powell",
+      "phoneNumber": "3334445555",
+      "email": "addison@example.com",
+      "apartmentType": "2 Bed Apartment",
+      "message": "Looking for an apartment with a rooftop pool."
+    },
+    {
+      "name": "Grace Simmons",
+      "phoneNumber": "8887776666",
+      "email": "grace@example.com",
+      "apartmentType": "3 Bed Apartment",
+      "message": "Interested in a pet-friendly community."
+    },
+    {
+      "name": "Leo Coleman",
+      "phoneNumber": "1110009999",
+      "email": "leo@example.com",
+      "apartmentType": "2 Bed Apartment",
+      "message": "Need an apartment with a study room."
+    },
+    {
+      "name": "Luna Foster",
+      "phoneNumber": "5556667777",
+      "email": "luna@example.com",
+      "apartmentType": "1 Bed Apartment",
+      "message": "Looking for an apartment with a fitness center."
+    }
+  ]
+  
